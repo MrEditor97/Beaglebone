@@ -9,3 +9,7 @@ Do you want a pre-compiled image?
 This is the source for everything that you want, to be able to use your Beaglebone to its full potential.
 
 This is the new home for information to do with your Beaglebone. If you need some help on how to do something, don't worry, just ask. Whether its from setting up GPIO's for Onewire or PWM to how to get you started, we will always be ready to help.
+
+I will be slowly adding to this repository at points as I find out new things about the Beaglebone myself.
+
+For my wiki go to: https://www.github.com/MrEditor97/Beaglebone/wiki
