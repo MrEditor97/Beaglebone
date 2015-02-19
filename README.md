@@ -12,4 +12,4 @@ This is the new home for information to do with your Beaglebone. If you need som
 
 I will be slowly adding to this repository at points as I find out new things about the Beaglebone myself.
 
-For my wiki go to: https://www.github.com/MrEditor97/Beaglebone/wiki
+For my wiki and information about how to and help go to: https://www.github.com/MrEditor97/Beaglebone/wiki
