@@ -1,4 +1,5 @@
 # Beaglebone
+<<<<<<< HEAD
 
 When you have been looking for ages on the internet on how to be able to do something with the Beaglebone, and then you come across this website...then you realise that before, it was such a waist of time. Why didn't you just come here in the first place?
 
