@@ -27,10 +27,8 @@ public class PWM {
             return reader.read();
         } catch (FileNotFoundException ex) {
             log.warn("An error occured when attempting to read from PWM Controller " + controller + ": " + ex);
-            System.exit(1);
         } catch (IOException ex) {
             log.warn("An error occured when attempting to read from PWM Controller " + controller + ": " + ex);
-            System.exit(1);
         }
         return -1;
     }
@@ -55,10 +53,8 @@ public class PWM {
             return reader.read();
         } catch (FileNotFoundException ex) {
             log.warn("An error occured when attempting to read from PWM Controller " + controller + ": " + ex);
-            System.exit(1);
         } catch (IOException ex) {
             log.warn("An error occured when attempting to read from PWM Controller " + controller + ": " + ex);
-            System.exit(1);
         }
         return -1;
     }
@@ -69,10 +65,8 @@ public class PWM {
             return reader.read() != 0;
         } catch (FileNotFoundException ex) {
             log.warn("An error occured when attempting to read from PWM Controller " + controller + ": " + ex);
-            System.exit(1);
         } catch (IOException ex) {
             log.warn("An error occured when attempting to read from PWM Controller " + controller + ": " + ex);
-            System.exit(1);
         }
         return false;
     }
