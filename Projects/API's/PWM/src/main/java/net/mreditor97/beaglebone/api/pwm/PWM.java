@@ -10,7 +10,7 @@ import org.apache.logging.log4j.Logger;
 
 /**
  *
- * @author Samuel J. Hughes (MrEditor97)
+ * @author MrEditor97
  */
 public class PWM {
     
